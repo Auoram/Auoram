@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm @Auoram</h1>
 <h3 align="center">Aspiring Data Analyst | Curious Mind | Lifelong Learner</h3>
 
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning **Power BI, SQL, Python, and Machine Learning**
