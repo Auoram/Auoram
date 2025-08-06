@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm @Auoram</h1>
 <h3 align="center">Aspiring Data Analyst | Curious Mind | Lifelong Learner</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning **Power BI, SQL, Python, and Machine Learning**
@@ -14,7 +14,7 @@
 ### Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,sql,html,css,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,tailwind,js,react,flask,sqlite,mysql,vscode,github" />
 </p>
 
 ---
@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Auoram&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Auoram&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
@@ -37,7 +36,7 @@
 
 ---
 
-<p align="center">✨Thanks for visiting my profile✨</p>
+<p align="center">Thanks for visiting my profile</p>
 
 
 <!---
